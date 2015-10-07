@@ -6,19 +6,120 @@
   text-transform: uppercase;
   display: inline;
  }
- 
+body {
+         background-image:url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b17.png");
+}
+
  #one {
-	color: #1E90FF;
-	text-align:center;
-	font-size: 20px;
-	font-weight: bold;
-	padding: 14px 10px;
-	font-family: sans-serif;
+	 color: #FFFFFF;
+    text-align: center;
+    font-family: Century Gothic;
+    padding: 14px 10px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: #060606;
+    width: 750px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
+}
+
+#two h2 {
+    padding: 14px 10px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: #060606;
+    height: 28px;
+    width: 250px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b20.png");
 }
 
 #two {
-    color: #6495ED;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: Century Gothic;
+    padding: 14px 10px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: #060606;
+    width: 750px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
+}
+
+
+
+#bottom {
+	color: #FFFFFF;
     text-align: center;
     font-family: sans-serif;
     padding: 14px 10px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: #060606;
+    width: 750px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
 }
+
+#shirt1 {
+    padding: 14px 10px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: #060606;
+    width: 400px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
+}
+
+#shirt2 {
+    padding: 14px 10px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: #060606;
+    width: 225px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
+}
+    
+#shirt3 {
+    padding: 14px 10px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: #060606;
+    width: 360px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
+}
+
+#shirt4 {
+    padding: 14px 10px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: #060606;
+    width: 500px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
+}
+
+#shirt5 {
+    padding: 14px 10px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: #060606;
+    width: 330px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
+}
+
+#shirt6 {
+    padding: 14px 10px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: #060606;
+    width: 355px; 
+    margin: 0 auto; 
+    background-image: url("http://supernovathemes.com/wp-content/themes/supernonvathemes/images/bg/b12.png");
+}
+
+
