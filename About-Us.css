@@ -1,0 +1,22 @@
+.jumbotron {
+  background-image:url('http://www.linuxuser.co.uk/wp-content/uploads/2011/05/Lubuntu-ball-logo.jpg');
+  height: 375px;
+}
+
+.jumbotron h1 {
+  color: #000;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.lusers li {
+  font-size: 20px;
+  color: #3366CC;
+}
