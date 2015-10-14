@@ -26,12 +26,11 @@ body {
 #two h2 {
     padding: 14px 10px;
     border-style: ridge;
-    border-width: 5px;
+    border-width: 0px;
     border-color: #001F5C;
     height: 28px;
     width: 250px; 
     margin: 0 auto; 
-    background-image: url("http://www.designbolts.com/wp-content/uploads/2012/12/Triangle-White-Seamless-Patterns.jpg");
 }
 
 #two {
