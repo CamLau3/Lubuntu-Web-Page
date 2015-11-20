@@ -1,4 +1,27 @@
-<!DOCTYPE html>
+<!docttype html>
 <html>
-<title>Shit</title>
+	<head>
+		<meta charset="utf-8">
+		<title>Javascript Testbed</title>
+	</head>
+	<body>
+		<h1>
+			<script type="text/javascript">
+<!--
+	var currentTime = new Date()
+	var hours = currentTime.getHours()
+	var minutes = currentTime.getMinutes()
+	var seconds = currentTime.getSeconds()
+	
+	if (seconds < 10)
+	seconds == "0" + minutes;
+
+	if (minutes < 10)
+	minutes = "0" + minutes
+
+	document.write("<b><div id="d1">" + hours + ":" + minutes + seconds + "</div></b>")
+//-->
+</script>
+		</h1>
+	</body>
 </html>
